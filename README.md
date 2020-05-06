@@ -13,3 +13,5 @@ https://businessinsights.bitdefender.com/alleged-north-korean-threat-actor-targe
 https://www.securityweek.com/north-korean-hacking-group-apt37-expands-targets
 
 https://www.securityweek.com/researchers-link-new-android-backdoor-north-korean-hackers
+
+https://securityaffairs.co/wordpress/95786/apt/microsoft-sued-north-korea-thallium.html
