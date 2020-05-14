@@ -17,3 +17,5 @@ https://www.securityweek.com/researchers-link-new-android-backdoor-north-korean-
 https://securityaffairs.co/wordpress/95786/apt/microsoft-sued-north-korea-thallium.html
 
 https://www.zdnet.com/article/microsoft-takes-down-50-domains-operated-by-north-korean-hackers/
+
+https://twitter.com/issuemakerslab/status/1258748717202419712
