@@ -19,3 +19,5 @@ https://securityaffairs.co/wordpress/95786/apt/microsoft-sued-north-korea-thalli
 https://www.zdnet.com/article/microsoft-takes-down-50-domains-operated-by-north-korean-hackers/
 
 https://twitter.com/issuemakerslab/status/1258748717202419712
+
+https://securityaffairs.co/wordpress/107239/malware/konni-rat-cisa-alert.html?utm_source=rss&utm_medium=rss&utm_campaign=konni-rat-cisa-alert ?? attribution unclear
