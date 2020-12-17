@@ -21,3 +21,5 @@ https://www.zdnet.com/article/microsoft-takes-down-50-domains-operated-by-north-
 https://twitter.com/issuemakerslab/status/1258748717202419712
 
 https://securityaffairs.co/wordpress/107239/malware/konni-rat-cisa-alert.html?utm_source=rss&utm_medium=rss&utm_campaign=konni-rat-cisa-alert ?? attribution unclear
+
+https://www.trendmicro.com/en_us/research/20/l/who-is-the-threat-actor-behind-operation-earth-kitsune-.html
