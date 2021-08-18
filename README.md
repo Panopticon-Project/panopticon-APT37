@@ -33,3 +33,13 @@ https://www.digitalshadows.com/blog-and-research/shadowtalk-update-covid-19-thir
 https://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/
 
 https://blog.malwarebytes.com/threat-analysis/2021/01/retrohunting-apt37-north-korean-apt-used-vba-self-decode-technique-to-inject-rokrat/
+
+https://www.darkreading.com/attacks-breaches/north-korean-apt-group-employed-rare-zero-day-attack/d/d-id/1331011?
+
+https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/?
+
+https://www.securityweek.com/north-korea-linked-scarcruft-adds-bluetooth-harvester-toolkit
+
+http://www.spywareremove.com/removeapt37.html
+
+https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/
