@@ -43,3 +43,5 @@ https://www.securityweek.com/north-korea-linked-scarcruft-adds-bluetooth-harvest
 http://www.spywareremove.com/removeapt37.html
 
 https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/
+
+https://blog.malwarebytes.com/threat-intelligence/2021/08/new-variant-of-konni-malware-used-in-campaign-targetting-russia/
