@@ -71,3 +71,5 @@ https://www.darkreading.com/operations/how-north-korean-apt-kimsuky-is-evolving-
 https://blog.malwarebytes.com/threat-analysis/2021/06/kimsuky-apt-continues-to-target-south-korean-government-using-appleseed-backdoor/
 
 https://www.bleepingcomputer.com/news/security/south-koreas-nuclear-research-agency-hacked-using-vpn-flaw/
+
+https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-campaigns
