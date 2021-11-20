@@ -73,3 +73,5 @@ https://blog.malwarebytes.com/threat-analysis/2021/06/kimsuky-apt-continues-to-t
 https://www.bleepingcomputer.com/news/security/south-koreas-nuclear-research-agency-hacked-using-vpn-flaw/
 
 https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-campaigns
+
+https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals
