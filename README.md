@@ -77,3 +77,5 @@ https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-cam
 https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals
 
 https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html
+
+https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/
