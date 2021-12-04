@@ -79,3 +79,5 @@ https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-alig
 https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html
 
 https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/
+
+https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html
