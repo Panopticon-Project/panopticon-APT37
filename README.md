@@ -81,3 +81,5 @@ https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware
 https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/
 
 https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html
+
+https://www.darkreading.com/threat-intelligence/north-korean-groups-focus-on-financial-gain-persistence
