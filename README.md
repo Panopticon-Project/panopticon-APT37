@@ -83,3 +83,5 @@ https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-ri
 https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html
 
 https://www.darkreading.com/threat-intelligence/north-korean-groups-focus-on-financial-gain-persistence
+
+https://securityaffairs.co/wordpress/126388/apt/konni-apt-russia-entities.html
