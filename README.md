@@ -85,3 +85,5 @@ https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html
 https://www.darkreading.com/threat-intelligence/north-korean-groups-focus-on-financial-gain-persistence
 
 https://securityaffairs.co/wordpress/126388/apt/konni-apt-russia-entities.html
+
+https://blog.talosintelligence.com/2018/05/navrat.html#more
