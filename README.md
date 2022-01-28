@@ -87,3 +87,5 @@ https://www.darkreading.com/threat-intelligence/north-korean-groups-focus-on-fin
 https://securityaffairs.co/wordpress/126388/apt/konni-apt-russia-entities.html
 
 https://blog.talosintelligence.com/2018/05/navrat.html#more
+
+https://blog.malwarebytes.com/threat-intelligence/2022/01/konni-evolves-into-stealthier-rat/
