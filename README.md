@@ -89,3 +89,5 @@ https://securityaffairs.co/wordpress/126388/apt/konni-apt-russia-entities.html
 https://blog.talosintelligence.com/2018/05/navrat.html#more
 
 https://blog.malwarebytes.com/threat-intelligence/2022/01/konni-evolves-into-stealthier-rat/
+
+https://heimdalsecurity.com/blog/north-korean-apt-kimsuky-uses-commodity-rats-with-custom-gold-dragon-backdoor/
