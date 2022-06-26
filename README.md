@@ -93,3 +93,5 @@ https://blog.malwarebytes.com/threat-intelligence/2022/01/konni-evolves-into-ste
 https://heimdalsecurity.com/blog/north-korean-apt-kimsuky-uses-commodity-rats-with-custom-gold-dragon-backdoor/
 
 https://stairwell.com/news/threat-research-the-ink-stained-trail-of-goldbackdoor/
+
+https://asec.ahnlab.com/en/34978/
