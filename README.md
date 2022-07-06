@@ -95,3 +95,5 @@ https://heimdalsecurity.com/blog/north-korean-apt-kimsuky-uses-commodity-rats-wi
 https://stairwell.com/news/threat-research-the-ink-stained-trail-of-goldbackdoor/
 
 https://asec.ahnlab.com/en/34978/
+
+https://twitter.com/BlackLotusLabs/status/1544323188947124225?
