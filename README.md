@@ -99,3 +99,5 @@ https://asec.ahnlab.com/en/34978/
 https://twitter.com/BlackLotusLabs/status/1544323188947124225?
 
 https://www.securonix.com/blog/stiffbizon-detection-new-attack-campaign-observed/
+
+https://ti.qianxin.com/blog/articles/king-of-phishing-analysis-of-kimsuky's-recent-spear-phishing-attacks-targeting-south-korea-with-multiple-topics
