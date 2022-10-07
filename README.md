@@ -103,3 +103,5 @@ https://www.securonix.com/blog/stiffbizon-detection-new-attack-campaign-observed
 https://ti.qianxin.com/blog/articles/king-of-phishing-analysis-of-kimsuky's-recent-spear-phishing-attacks-targeting-south-korea-with-multiple-topics
 
 https://www.volexity.com/blog/2022/07/28/sharptongue-deploys-clever-mail-stealing-browser-extension-sharpext/
+
+https://securelist.com/kimsukys-golddragon-cluster-and-its-c2-operations/107258/
