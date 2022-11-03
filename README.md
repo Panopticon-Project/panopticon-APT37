@@ -107,3 +107,5 @@ https://www.volexity.com/blog/2022/07/28/sharptongue-deploys-clever-mail-stealin
 https://securelist.com/kimsukys-golddragon-cluster-and-its-c2-operations/107258/
 
 https://medium.com/s2wblog/unveil-the-evolution-of-kimsuky-targeting-android-devices-with-newly-discovered-mobile-malware-280dae5a650f
+
+https://asec.ahnlab.com/ko/40552/
