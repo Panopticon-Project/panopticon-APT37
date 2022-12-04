@@ -109,3 +109,5 @@ https://securelist.com/kimsukys-golddragon-cluster-and-its-c2-operations/107258/
 https://medium.com/s2wblog/unveil-the-evolution-of-kimsuky-targeting-android-devices-with-newly-discovered-mobile-malware-280dae5a650f
 
 https://asec.ahnlab.com/ko/40552/
+
+https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/
