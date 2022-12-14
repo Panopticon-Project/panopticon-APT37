@@ -111,3 +111,5 @@ https://medium.com/s2wblog/unveil-the-evolution-of-kimsuky-targeting-android-dev
 https://asec.ahnlab.com/ko/40552/
 
 https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/
+
+https://www.reuters.com/world/asia-pacific/north-korean-cyber-spies-deploy-new-tactic-tricking-foreign-experts-into-writing-2022-12-12/
