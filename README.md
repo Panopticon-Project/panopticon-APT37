@@ -115,3 +115,7 @@ https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet
 https://www.reuters.com/world/asia-pacific/north-korean-cyber-spies-deploy-new-tactic-tricking-foreign-experts-into-writing-2022-12-12/
 
 https://therecord.media/google-north-korean-govt-hackers-used-internet-explorer-zero-day-to-target-south-korea-users/
+
+https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/
+
+https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/
