@@ -119,3 +119,5 @@ https://therecord.media/google-north-korean-govt-hackers-used-internet-explorer-
 https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/
 
 https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/
+
+https://blog.alyac.co.kr/5009
