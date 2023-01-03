@@ -125,3 +125,5 @@ https://blog.alyac.co.kr/5009
 https://thorcert.notion.site/TTPs-9-f04ce99784874947978bd2947738ac92
 
 https://ti.qianxin.com/blog/articles/spikes-from-the-kimsuky-organization-targeted-killing-of-south-korea-with-multiple-assault-weapons/
+
+https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA%3D%3D&mid=2247491295&idx=1&sn=1811591c7c2baca6096e66b7fef1f89f&chksm=f9c22dd6ceb5a4c0a39c197e02b2b4bec28fbe5f96a2fc3d0d91fe05837be630190274cf8fe3&scene=178&cur_album_id=1955835290309230595&utm_source=substack&utm_medium=email#rd
