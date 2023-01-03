@@ -121,3 +121,5 @@ https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-n
 https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/
 
 https://blog.alyac.co.kr/5009
+
+https://thorcert.notion.site/TTPs-9-f04ce99784874947978bd2947738ac92
