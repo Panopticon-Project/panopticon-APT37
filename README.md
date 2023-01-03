@@ -123,3 +123,5 @@ https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-vict
 https://blog.alyac.co.kr/5009
 
 https://thorcert.notion.site/TTPs-9-f04ce99784874947978bd2947738ac92
+
+https://ti.qianxin.com/blog/articles/spikes-from-the-kimsuky-organization-targeted-killing-of-south-korea-with-multiple-assault-weapons/
