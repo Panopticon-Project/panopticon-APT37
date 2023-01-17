@@ -133,3 +133,5 @@ https://mp.weixin.qq.com/s?__biz=MzUyMDEyNTkwNA%3D%3D&mid=2247492699&idx=1&sn=4e
 https://www.sentinelone.com/labs/labscon-replay-inkysquid-the-missing-arsenal/
 
 https://mp-weixin-qq-com.translate.goog/s/EQ8nrfE3tkfg4nB8F49VLA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email
+
+https://blog.alyac.co.kr/5043
